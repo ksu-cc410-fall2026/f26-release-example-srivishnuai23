@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: guessinggame
+Version: 0.0.1
+Summary: A fun guessing guessinggame
+Home-page: https://github.com/ksu-cc410-fall2026/f26-release-example-srivishnuai23
+Author-email: svchandr@ksu.edu
+Project-URL: Bug Tracker, https://github.com/ksu-cc410-fall2026/f26-release-example-srivishnuai23/issues/
+Classifier: Programming Language ::Python :: 3
+Classifier: License ::OSI Approved ::MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+README File
